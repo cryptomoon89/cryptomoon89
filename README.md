@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/Dannie_myname/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Logo"></a>
 <a href="https://twitter.com/daud_sandjaya" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Logo"></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=cryptomoon89&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%onedionys" alt="Visitor"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=cryptomoon89&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%cryptomoon89" alt="Visitor"></p>
 
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width: 100%">
