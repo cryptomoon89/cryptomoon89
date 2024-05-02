@@ -1,10 +1,10 @@
 <p><h1 align="center">Hi, I'm cryptomoo89 👋</h1></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/cryptomoon89/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Logo"></a>
+<a href="https://www.linkedin.com/in/dannie/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Logo"></a>
 <a href="mailto:cryptomoon355@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo"></a>
 <a href="https://www.facebook.com/dannie/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Logo"></a>
 <a href="https://www.instagram.com/Dannie_myname/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Logo"></a>
-<a href="https://twitter.com/cryptomoon89" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Logo"></a>
+<a href="https://twitter.com/daud_sandjaya" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Logo"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=cryptomoon89&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%onedionys" alt="Visitor"></p>
 
