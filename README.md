@@ -11,7 +11,7 @@
 <a href=![Binance]><img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" alt="Binance Logo"></a>
 </p>
 <p href=![Ethereum]><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum Logo"></p>
-<p href=![Tether]><img src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" alt="Tether Logo"></p>
+<a href=![Tether]><img src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" alt="Tether Logo"></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=cryptomoon89&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%cryptomoon89" alt="Visitor"></p>
 
