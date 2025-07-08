@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/dannie/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Logo"></a>
 <a href="mailto:cryptomoon355@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo"></a>
 <a href="https://www.facebook.com/dannie/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Logo"></a>
-<a href="https://www.instagram.com/Dannie_myname/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Logo"></a>
+<a href="https://www.instagram.com/Dannie_myname/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E6007A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Logo"></a>
 <a href="https://twitter.com/mikhamoon12" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Logo"></a>
 <a href=![Medium]><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"alt="Medium Logo"></a>
 <a href=![Blogger]><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt=Blogger Logo"></a>  
@@ -16,6 +16,8 @@
 <a href=![Tether]><img src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" alt="Tether Logo"></a>
 <a href=![Dogecoin]><img src="https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white" alt="Doge Logo"></a>
 <a href=![CodePen]><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Logo"></a>
+<a href=![PayPal]><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal Logo"></a>
+<a href=![BuyMeACoffee]><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffe Logo"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=cryptomoon89&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%cryptomoon89" alt="Visitor"></p>
 
