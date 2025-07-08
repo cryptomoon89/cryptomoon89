@@ -5,7 +5,7 @@
 <a href="https://www.facebook.com/dannie/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Logo"></a>
 <a href="https://www.instagram.com/Dannie_myname/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Logo"></a>
 <a href="https://twitter.com/mikhamoon12" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Logo"></a>
-<a href="https://discord.com/onadio.eth" target="_blank"><img src="https://img.shields.io/discord/1113546236776161412?style=for-the-badge&logo=discord&logoColor=navy" alt="discord Logo"></a>
+<a href="https://discord.com/onadio.eth" target="_blank"><img src="https://discord-live-members-count-badge.vercel.app/api/discord-members?guildId=1113546236776161412
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=cryptomoon89&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%cryptomoon89" alt="Visitor"></p>
 
