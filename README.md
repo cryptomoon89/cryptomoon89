@@ -8,7 +8,8 @@
 <a href=![Medium]><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"alt="Medium Logo"></a>
 <a href=![Blogger]><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt=Blogger Logo"></a>  
 <a href=![GitLab CI]><img src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab CI Logo"></a>  
-<a href=![Bitcoin]><img src="https://img.shields.io/badge/Bitcoin-FF5722?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Logo"></a>
+<a href=![CloudBees]>< img src="https://img.shields.io/badge/CloudBees-1997B5?style=for-the-badge&logo=cloudbees&logoColor=white" alt="Cloudbees Logo"></a>
+<a href=![Bitcoin]>< img src="https://img.shields.io/badge/Bitcoin-FF5722?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Logo"></a>
 <a href=![Ethereum]><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum Logo"></a>
 <a href=![Binance]><img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" alt="Binance Logo"></a>
 <a href=![Tether]><img src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" alt="Tether Logo"></a>
