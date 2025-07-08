@@ -1,5 +1,5 @@
 <p><h1 align="center">Hi, I'm Onadio.ETH 👋</h1></p>
-<p align="center">  
+<p align="center">
 <a href="https://www.linkedin.com/in/dannie/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Logo"></a>
 <a href="mailto:cryptomoon355@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo"></a>
 <a href="https://www.facebook.com/dannie/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Logo"></a>
