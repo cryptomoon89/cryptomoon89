@@ -1,4 +1,4 @@
-<p><h1 align="center">Hi, I'm Onadio.ETH 👋</h1></p>
+<p><h1 align="center">Hi, I'm OnadioETH 👋</h1></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/dannie/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Logo"></a>
 <a href="mailto:cryptomoon355@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo"></a>
@@ -19,7 +19,7 @@
 <a href=![PayPal]><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal Logo"></a>
 <a href=![BuyMeACoffee]><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffe Logo"></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Onadio.ETH&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%cryptomoon89" alt="Visitor"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=OnadioETH&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%OnadioETH" alt="Visitor"></p>
 
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width: 100%">
