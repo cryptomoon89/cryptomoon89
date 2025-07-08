@@ -25,7 +25,7 @@
 <table style="width: 100%">
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=cryptomoon89&show_icons=true&theme=dark&locale=en&hide_border=true" alt="Github Stat"></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptomoon89&theme=dark&hide_border=true&layout=compact" alt="Most Languange"></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptomoon89&theme=green-stabilo&hide_border=true&layout=compact" alt="Most Languange"></td>
 </tr>
 </table>
 
