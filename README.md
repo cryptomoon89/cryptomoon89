@@ -26,8 +26,11 @@
        alt="Coding Logo"/>
 <p/>
 
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Selamat+Datang+di+Profil+Saya!;Coder+Crypto+Enthusiast+Hacker+Spirit" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=1750&lines=Welcome+to+my+profile,+let's+learn+and+grow+together." alt="Typing SVG" />
+
 
 <p align="center">
 <a href=![Bitcoin]><img src="https://img.shields.io/badge/Bitcoin-FF5722?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Logo"></a>
