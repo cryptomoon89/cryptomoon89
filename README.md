@@ -29,6 +29,15 @@
        height="800"
        alt="Coding Logo"/>
 <p/>
+
+<p align="center">
+  <img sec="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=optimism&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arbitrum-28A0F0?style=for-the-badge&logo=arbitrum&logoColor=white" />
+  <img src="https://img.shields.io/badge/ZkSync-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
+  
 ---  
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width: 100%">
