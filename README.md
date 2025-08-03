@@ -26,7 +26,7 @@
        alt="Coding Logo"/>
 <p/>
 
-</p>
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Selamat+Datang+di+Profil+Saya!;Coder+Crypto+Enthusiast+Hacker+Spirit" alt="Typing SVG" />
 
 <p align="center">
