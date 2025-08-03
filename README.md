@@ -21,6 +21,10 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=cryptomoon89&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%cryptomoon89" alt="Visitor"></p>
 
+<p align="center">
+  <img src=./IMG/Raise_logo_gif.gif" width="400px" alt="banner-gif"/>
+<p/>
+---  
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width: 100%">
 <tr>
