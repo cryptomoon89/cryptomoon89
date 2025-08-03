@@ -25,20 +25,21 @@
        height="800"
        alt="Coding Logo"/>
 <p/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Selamat+Datang+di+Profil+Saya!;Coder+Crypto+Enthusiast+Hacker+Spirit" alt="Typing SVG" />
 
 <p align="center">
-  <a href=![Bitcoin]><img src="https://img.shields.io/badge/Bitcoin-FF5722?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Logo"></a>
-  <a href=![Ethereum]><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum Logo"></a>
-  <a href=![Binance]><img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" alt="Binance Logo"></a>
-  <img sec="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=optimism&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arbitrum-28A0F0?style=for-the-badge&logo=arbitrum&logoColor=white" />
-  <img src="https://img.shields.io/badge/ZkSync-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
-  <a href=![Polkadot]><img src="https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white" alt="Polkadot Logo"></a>
-  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
-  <a href=![Tether]><img src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" alt="Tether Logo"></a>
-  <a href=![Dogecoin]><img src="https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white" alt="Doge Logo"></a>
+<a href=![Bitcoin]><img src="https://img.shields.io/badge/Bitcoin-FF5722?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Logo"></a>
+<a href=![Ethereum]><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum Logo"></a>
+<a href=![Binance]><img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" alt="Binance Logo"></a>
+<img sec="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" />
+<img src="https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=optimism&logoColor=white" />
+<img src="https://img.shields.io/badge/Arbitrum-28A0F0?style=for-the-badge&logo=arbitrum&logoColor=white" />
+<img src="https://img.shields.io/badge/ZkSync-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+<a href=![Polkadot]><img src="https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white" alt="Polkadot Logo"></a>
+<img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
+<a href=![Tether]><img src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" alt="Tether Logo"></a>
+<a href=![Dogecoin]><img src="https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white" alt="Doge Logo"></a>
   
 ---  
 **⚙️ &nbsp;GitHub Analytics**
