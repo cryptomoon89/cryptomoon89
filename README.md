@@ -1,4 +1,6 @@
-<p><h1 align="center">Hi, I'm OnadioETH 👋</h1></p>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F70396&center=true&vCenter=true&random=false&width=525&lines=I'm+I LOVE CRYPTO;I'm+a+ONADIO.ETH" alt="Typing SVG" /></a>
+</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/dannie/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Logo"></a>
 <a href="mailto:cryptomoon355@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo"></a>
