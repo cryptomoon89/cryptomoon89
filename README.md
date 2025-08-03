@@ -33,8 +33,8 @@
   <img src="https://img.shields.io/badge/Arbitrum-28A0F0?style=for-the-badge&logo=arbitrum&logoColor=white" />
   <img src="https://img.shields.io/badge/ZkSync-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
   <a href=![Polkadot]><img src="https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white" alt="Polkadot Logo"></a>
+  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
   <a href=![Tether]><img src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" alt="Tether Logo"></a>
   <a href=![Dogecoin]><img src="https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white" alt="Doge Logo"></a>
   
