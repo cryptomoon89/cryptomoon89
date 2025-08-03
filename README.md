@@ -23,8 +23,8 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cryptomoon89/cryptomoon89/main/IMG/coding_logo_gif.gif"
-       width="400"
-       height="400"
+       width="800"
+       height="800"
        alt="Coding Logo"/>
 <p/>
 ---  
